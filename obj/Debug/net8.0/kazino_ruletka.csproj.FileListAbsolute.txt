@@ -1,0 +1,14 @@
+/Users/macbookair/Desktop/програмирование/kazino ruletka/bin/Debug/net8.0/kazino_ruletka
+/Users/macbookair/Desktop/програмирование/kazino ruletka/bin/Debug/net8.0/kazino_ruletka.deps.json
+/Users/macbookair/Desktop/програмирование/kazino ruletka/bin/Debug/net8.0/kazino_ruletka.runtimeconfig.json
+/Users/macbookair/Desktop/програмирование/kazino ruletka/bin/Debug/net8.0/kazino_ruletka.dll
+/Users/macbookair/Desktop/програмирование/kazino ruletka/bin/Debug/net8.0/kazino_ruletka.pdb
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.AssemblyInfo.cs
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.dll
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/refint/kazino_ruletka.dll
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.pdb
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.genruntimeconfig.cache
+/Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/ref/kazino_ruletka.dll
