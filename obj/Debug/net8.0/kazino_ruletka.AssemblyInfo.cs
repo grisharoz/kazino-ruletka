@@ -13,10 +13,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kazino_ruletka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d43fee20c58ebdcb948ba6b7eeb4ac2d0fad24")]
 [assembly: System.Reflection.AssemblyProductAttribute("kazino_ruletka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kazino_ruletka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
-// Von der MSBuild WriteCodeFragment-Klasse generiert.
+// Создано классом WriteCodeFragment MSBuild.
 

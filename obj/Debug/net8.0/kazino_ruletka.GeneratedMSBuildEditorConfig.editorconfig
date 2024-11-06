@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kazino_ruletka
-build_property.ProjectDir = /Users/macbookair/Desktop/програмирование/kazino ruletka/
+build_property.ProjectDir = C:\Users\DmytroMykhailiuk\kazino-ruletka\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

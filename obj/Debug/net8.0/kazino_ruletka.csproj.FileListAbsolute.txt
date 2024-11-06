@@ -12,3 +12,18 @@
 /Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.pdb
 /Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/kazino_ruletka.genruntimeconfig.cache
 /Users/macbookair/Desktop/програмирование/kazino ruletka/obj/Debug/net8.0/ref/kazino_ruletka.dll
+C:\Users\DmytroMykhailiuk\kazino-ruletka\bin\Debug\net8.0\kazino_ruletka.exe
+C:\Users\DmytroMykhailiuk\kazino-ruletka\bin\Debug\net8.0\kazino_ruletka.deps.json
+C:\Users\DmytroMykhailiuk\kazino-ruletka\bin\Debug\net8.0\kazino_ruletka.runtimeconfig.json
+C:\Users\DmytroMykhailiuk\kazino-ruletka\bin\Debug\net8.0\kazino_ruletka.dll
+C:\Users\DmytroMykhailiuk\kazino-ruletka\bin\Debug\net8.0\kazino_ruletka.pdb
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.AssemblyInfoInputs.cache
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.AssemblyInfo.cs
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.csproj.CoreCompileInputs.cache
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.sourcelink.json
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.dll
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\refint\kazino_ruletka.dll
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.pdb
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\kazino_ruletka.genruntimeconfig.cache
+C:\Users\DmytroMykhailiuk\kazino-ruletka\obj\Debug\net8.0\ref\kazino_ruletka.dll
